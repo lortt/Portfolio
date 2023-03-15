@@ -18,9 +18,9 @@
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 11.03.2023
+Individual training for manual tester 11.03.2023
 ## COURSES
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Individual training for manual tester - Waldemar Szafraniec
 * SOFTWARE TESTING INTRODUCTION- theoretical and practical course
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
