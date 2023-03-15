@@ -36,7 +36,7 @@ Szkolenie Indywidualne tester manualny 11.03.2023
 * [Test cases](https://drive.google.com/drive/folders/1GzEuOY5ngVVEyr2SGVBkMpm6NS6A5yrr?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR 
-* [Podczas dodawania produktów do schowka, produkt nie podświetla się serduszkiem.](https://docs.google.com/document/d/15JxV3ahpHZvIrwZSdbM0jsOJdLguJtUnwF_zA0LpkSk/edit?usp=sharing)
+* [After adding a product to the cart, the heart icon in the product card doesn't light up.](https://docs.google.com/document/d/15JxV3ahpHZvIrwZSdbM0jsOJdLguJtUnwF_zA0LpkSk/edit?usp=sharing)
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/file/d/1gyntcfO2DHg_iBLK9Qx0e8ivPJmkGwHy/view?usp=sharing)
