@@ -1,9 +1,9 @@
 # Portfolio
 ## ABOUT ME
-After finishing the Szkolenie indywidualne tester manualny - Waldemar Szafraniec, introductory testing course and internship in SALESmanago, I have been proceeding to gain skills that I would need as a QA engineer: mobile testing basics, as well as driving deeper into testing fundamentals by reading articles and performing practical tasks on a project with Agile Methodology.
-I am able to run all QA activities starting from requirement analysis to ticket completion on the Junior QA level. 
-My English level is B1 and till nowadays I have classes with a coach. 
-I am looking for an opportunity to expand my knowledge and skills bringing value to real projects. I am determined to raise my skills and abilities day by day and I am open from now to join a projects. 
+ I am determined and motivated to enter the IT industry and bring 100% of my value to it. After finishing theoretical course, practical classes with Waldemar Szafraniec, and an internship, I am able to perform all activities at the junior manual tester level.
+     My English proficiency level is B1 and I am still working on improving it. I have individual classes with a native speaker twice a week and conversational classes once a week. Additionally, I try to have at least one hour of daily contact with English. 
+     I possess character traits that are definitely an asset as a QA, for example, multitasking where as a twenty-year-old, I combined part-time studies at AGH, working underground in a coal mine, and playing football at the level of the third league. 
+     I am very eager to join your project and your team.
 ## TOOLS
 * Jira
 * TestLink
@@ -14,6 +14,7 @@ I am looking for an opportunity to expand my knowledge and skills bringing value
 * Requirements analysis  
 * Creating test cases
 * Reporting bugs
+* English: B1
 * SQL
 * SCRUM
 ## CERTIFICATES
