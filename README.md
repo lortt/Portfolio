@@ -36,7 +36,7 @@ Individual training for manual tester 11.03.2023
 * [Mind Map] (https://docs.google.com/document/d/1wv-FUQ-GQ2Myv8b9mE98xo2KBea3_a8q0cQzQwQyu54/edit?usp=sharing)
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
-* [Test cases](https://drive.google.com/file/d/1gyntcfO2DHg_iBLK9Qx0e8ivPJmkGwHy/view?usp=share_link)
+* [Test cases]([https://drive.google.com/file/d/1gyntcfO2DHg_iBLK9Qx0e8ivPJmkGwHy/view?usp=share_link](https://drive.google.com/file/d/1GWrRsWWY-EJoCkuEFICKWb2IZM6Op9w9/view?usp=share_link)
 ## MY BUGS
 ## MY BUGS FOR 
 * [After adding a product to the cart, the heart icon in the product card doesn't light up.](https://docs.google.com/document/d/15JxV3ahpHZvIrwZSdbM0jsOJdLguJtUnwF_zA0LpkSk/edit?usp=sharing)
