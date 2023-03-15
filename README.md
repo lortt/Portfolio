@@ -31,9 +31,9 @@ Individual training for manual tester 11.03.2023
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## MY MIRO APP MIND MAPING
-## MY MIRO MINF MAPING FOR
-* [Mind Maping] (https://docs.google.com/document/d/1wv-FUQ-GQ2Myv8b9mE98xo2KBea3_a8q0cQzQwQyu54/edit?usp=sharing)
+## MY MIRO APP MIND MAP
+## MY MIRO MIND MAP FOR
+* [Mind Map] (https://docs.google.com/document/d/1wv-FUQ-GQ2Myv8b9mE98xo2KBea3_a8q0cQzQwQyu54/edit?usp=sharing)
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
 * [Test cases](https://drive.google.com/file/d/1gyntcfO2DHg_iBLK9Qx0e8ivPJmkGwHy/view?usp=share_link)
