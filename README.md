@@ -18,9 +18,9 @@
 * SQL
 * SCRUM
 ## CERTIFICATES
-Individual training for manual tester 11.03.2023
+Extensive individual training in Manual software testing under supervision of Waldemar Szafraniec 11.03.2023
 ## COURSES
-* Individual training for manual tester - Waldemar Szafraniec
+* Extensive individual training in Manual software testing under supervision of Waldemar Szafraniec 
 * SOFTWARE TESTING INTRODUCTION- theoretical and practical course
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
