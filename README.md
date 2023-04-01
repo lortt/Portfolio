@@ -14,7 +14,7 @@
 * Requirements analysis  
 * Creating test cases
 * Reporting bugs
-* English: B1
+* English: B1 (I am still working on improving it. I have individual classes with a native speaker twice a week and conversational classes once a week)
 * SQL
 * SCRUM
 ## CERTIFICATES
