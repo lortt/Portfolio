@@ -22,15 +22,6 @@ Extensive individual training in Manual software testing under supervision of Wa
 ## COURSES
 * Extensive individual training in Manual software testing under supervision of Waldemar Szafraniec 
 * SOFTWARE TESTING INTRODUCTION- theoretical and practical course
-## RECOMENDED BLOGS
-* wyszkolewas.com.pl
-* testerzy.pl
-* testuj.pl
-* testITka
-* remigiuszbednarczyk.pl
-## GROUPS ON FACEBOOK
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania
 ## MY MIRO APP MIND MAP
 ## MY MIRO MIND MAP FOR
 * [Mind Map] (https://docs.google.com/document/d/1wv-FUQ-GQ2Myv8b9mE98xo2KBea3_a8q0cQzQwQyu54/edit?usp=sharing)
