@@ -1,7 +1,7 @@
 # Portfolio
 ## ABOUT ME
  I am determined and motivated to enter the IT industry and bring 100% of my value to it. After finishing theoretical course, practical classes with Waldemar Szafraniec, and an internship, I am able to perform all activities at the junior manual tester level.
-     My English proficiency level is B1 and I am still working on improving it. I have individual classes with a native speaker twice a week and conversational classes once a week. Additionally, I try to have at least one hour of daily contact with English. 
+     My English proficiency level is B1/ B2 and I am still working on improving it. I have individual classes with a native speaker twice a week and conversational classes once a week. Additionally, I try to have at least one hour of daily contact with English. 
      I possess character traits that are definitely an asset as a QA, for example, multitasking where as a twenty-year-old, I combined part-time studies at AGH, working underground in a coal mine, and playing football at the level of the third league. 
      I am very eager to join your project and your team.
 ## TOOLS
